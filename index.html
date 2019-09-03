@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+		<title>Wedding chairs</title>
+		<link rel="stylesheet" href="style.css" />
+	</head>
+	<body>
+		<div id="app">
+			<div id="svgholder">
+				<svg
+					version="1.1"
+					xmlns="http://www.w3.org/2000/svg"
+					viewBox="0 0 297 210"
+					width="297"
+					height="210"
+					id="chairs-svg"
+				>
+					<polyline
+						class="table"
+						points="152.05,154.65 152.05,71 235.7,71 235.7,154.65"
+					/>
+					<polyline
+						class="table"
+						points="68.39,154.65 68.39,71 152.05,71"
+					/>
+					<text
+						v-for="chair in chairs"
+						:x="chair.x"
+						:y="chair.y"
+						class="chair"
+						:text-anchor="chair.textalign ? 'start' : 'end'"
+					>
+						{{ chair.name }}
+					</text>
+					<g class="positions" v-if="positions">
+						<text
+							v-for="chair in chairs"
+							:x="chair.x"
+							:y="chair.y - 5"
+							class="chairpos"
+							:text-anchor="chair.textalign ? 'start' : 'end'"
+						>
+							{{ chair.x }}:{{ chair.y }}
+						</text>
+					</g>
+				</svg>
+			</div>
+			<div id="settings" :class="{'bait': bait, 'hide': hide}">
+				<button @click="bait = !bait">🐬</button>
+				<button @click="positions = !positions">🦅</button>
+				<textarea rows="10" v-html="chairs"></textarea>
+				<div v-for="chair in chairs" class="chair-edit">
+					<input type="text" v-model="chair.name" />
+					👉<input type="checkbox" v-model="chair.textalign" />
+					<input
+						type="range"
+						v-model.number="chair.x"
+						min="10"
+						max="297"
+					/><input type="number" v-model.number="chair.x" />
+					<input
+						type="range"
+						v-model.number="chair.y"
+						min="49"
+						max="210"
+					/><input type="number" v-model.number="chair.y" />
+				</div>
+			</div>
+		</div>
+		<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+		<script src="script.js"></script>
+	</body>
+</html>
