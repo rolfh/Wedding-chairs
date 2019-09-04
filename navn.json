@@ -1,350 +1,368 @@
 [
-	{
-		"textalign": true,
-		"name": "Nina",
-		"x": 64,
-		"y": 61
-	},
-	{
-		"textalign": true,
-		"name": "Torstein",
-		"x": 80,
-		"y": 61
-	},
-	{
-		"textalign": true,
-		"name": "Brit",
-		"x": 107,
-		"y": 61
-	},
-	{
-		"textalign": true,
-		"name": "Stine",
-		"x": 121,
-		"y": 61
-	},
-	{
-		"textalign": true,
-		"name": "Terje",
-		"x": 138,
-		"y": 61
-	},
-	{
-		"textalign": true,
-		"name": "Tonje",
-		"x": 154,
-		"y": 61
-	},
-	{
-		"textalign": true,
-		"name": "Eirik",
-		"x": 174,
-		"y": 61
-	},
-	{
-		"textalign": true,
-		"name": "Ingvild",
-		"x": 189,
-		"y": 61
-	},
-	{
-		"textalign": true,
-		"name": "Erik",
-		"x": 211,
-		"y": 61
-	},
-	{
-		"textalign": true,
-		"name": "Randi",
-		"x": 225,
-		"y": 61
-	},
-	{
-		"textalign": true,
-		"name": "Astrid",
-		"x": 246,
-		"y": 72
-	},
-	{
-		"textalign": true,
-		"name": "Sonja",
-		"x": 246,
-		"y": 81
-	},
-	{
-		"textalign": true,
-		"name": "Kåre",
-		"x": 246,
-		"y": 90
-	},
-	{
-		"textalign": true,
-		"name": "Jon",
-		"x": 246,
-		"y": 98
-	},
-	{
-		"textalign": true,
-		"name": "Eva",
-		"x": 246,
-		"y": 107
-	},
-	{
-		"textalign": true,
-		"name": "Trine",
-		"x": 246,
-		"y": 116
-	},
-	{
-		"textalign": true,
-		"name": "Øystein",
-		"x": 246,
-		"y": 125
-	},
-	{
-		"textalign": true,
-		"name": "Hanne",
-		"x": 246,
-		"y": 134
-	},
-	{
-		"textalign": true,
-		"name": "Roar",
-		"x": 246,
-		"y": 143
-	},
-	{
-		"textalign": true,
-		"name": "Rita",
-		"x": 246,
-		"y": 152
-	},
-	{
-		"textalign": false,
-		"name": "Maja",
-		"x": 225,
-		"y": 152
-	},
-	{
-		"textalign": false,
-		"name": "Per",
-		"x": 225,
-		"y": 141
-	},
-	{
-		"textalign": false,
-		"name": "Anne",
-		"x": 225,
-		"y": 130
-	},
-	{
-		"textalign": false,
-		"name": "Camilla",
-		"x": 225,
-		"y": 119
-	},
-	{
-		"textalign": false,
-		"name": "Stian",
-		"x": 225,
-		"y": 109
-	},
-	{
-		"textalign": false,
-		"name": "Maritt",
-		"x": 225,
-		"y": 98
-	},
-	{
-		"textalign": false,
-		"name": "William",
-		"x": 225,
-		"y": 87
-	},
-	{
-		"textalign": true,
-		"name": "Camilla",
-		"x": 162,
-		"y": 87
-	},
-	{
-		"textalign": true,
-		"name": "Rolf",
-		"x": 162,
-		"y": 98
-	},
-	{
-		"textalign": true,
-		"name": "Vibekke",
-		"x": 162,
-		"y": 109
-	},
-	{
-		"textalign": true,
-		"name": "Bent",
-		"x": 162,
-		"y": 119
-	},
-	{
-		"textalign": true,
-		"name": "Trine R",
-		"x": 162,
-		"y": 130
-	},
-	{
-		"textalign": true,
-		"name": "Beritt",
-		"x": 162,
-		"y": 141
-	},
-	{
-		"textalign": true,
-		"name": "Jan Inge",
-		"x": 162,
-		"y": 152
-	},
-	{
-		"textalign": false,
-		"name": "Gabor",
-		"x": 141,
-		"y": 152
-	},
-	{
-		"textalign": false,
-		"name": "Marit",
-		"x": 141,
-		"y": 141
-	},
-	{
-		"textalign": false,
-		"name": "Andre",
-		"x": 141,
-		"y": 130
-	},
-	{
-		"textalign": false,
-		"name": "Kathrine",
-		"x": 141,
-		"y": 119
-	},
-	{
-		"textalign": false,
-		"name": "Borghild",
-		"x": 141,
-		"y": 109
-	},
-	{
-		"textalign": false,
-		"name": "Ida",
-		"x": 141,
-		"y": 98
-	},
-	{
-		"textalign": false,
-		"name": "Vidar",
-		"x": 141,
-		"y": 87
-	},
-	{
-		"textalign": true,
-		"name": "ThorInge",
-		"x": 79,
-		"y": 87
-	},
-	{
-		"textalign": true,
-		"name": "Kari",
-		"x": 79,
-		"y": 98
-	},
-	{
-		"textalign": true,
-		"name": "Tor Frode",
-		"x": 79,
-		"y": 109
-	},
-	{
-		"textalign": true,
-		"name": "Camilla",
-		"x": 79,
-		"y": 119
-	},
-	{
-		"textalign": true,
-		"name": "Håvard",
-		"x": 79,
-		"y": 130
-	},
-	{
-		"textalign": true,
-		"name": "Astrid",
-		"x": 79,
-		"y": 141
-	},
-	{
-		"textalign": true,
-		"name": "Kaja",
-		"x": 79,
-		"y": 152
-	},
-	{
-		"textalign": false,
-		"name": "Thor Endre",
-		"x": 57,
-		"y": 152
-	},
-	{
-		"textalign": false,
-		"name": "Pierre",
-		"x": 57,
-		"y": 143
-	},
-	{
-		"textalign": false,
-		"name": "Inger",
-		"x": 57,
-		"y": 134
-	},
-	{
-		"textalign": false,
-		"name": "Oddfjell",
-		"x": 57,
-		"y": 125
-	},
-	{
-		"textalign": false,
-		"name": "Annett",
-		"x": 57,
-		"y": 116
-	},
-	{
-		"textalign": false,
-		"name": "Toreng",
-		"x": 57,
-		"y": 107
-	},
-	{
-		"textalign": false,
-		"name": "Hilde",
-		"x": 57,
-		"y": 98
-	},
-	{
-		"textalign": false,
-		"name": "Tord",
-		"x": 57,
-		"y": 90
-	},
-	{
-		"textalign": false,
-		"name": "Inga M",
-		"x": 57,
-		"y": 81
-	},
-	{
-		"textalign": false,
-		"name": "Christer",
-		"x": 57,
-		"y": 72
-	}
+  {
+    "textalign": true,
+    "name": "Nina",
+    "x": 64,
+    "y": 61
+  },
+  {
+    "textalign": true,
+    "name": "Torstein",
+    "x": 80,
+    "y": 61
+  },
+  {
+    "textalign": true,
+    "name": "Brit",
+    "x": 107,
+    "y": 61
+  },
+  {
+    "textalign": true,
+    "name": "Stine",
+    "x": 121,
+    "y": 61
+  },
+  {
+    "textalign": true,
+    "name": "Terje",
+    "x": 138,
+    "y": 61
+  },
+  {
+    "textalign": true,
+    "name": "Tonje",
+    "x": 154,
+    "y": 61
+  },
+  {
+    "textalign": true,
+    "name": "Eirik",
+    "x": 174,
+    "y": 61
+  },
+  {
+    "textalign": true,
+    "name": "Ingvild",
+    "x": 189,
+    "y": 61
+  },
+  {
+    "textalign": true,
+    "name": "Erik",
+    "x": 211,
+    "y": 61
+  },
+  {
+    "textalign": true,
+    "name": "Randi",
+    "x": 225,
+    "y": 61
+  },
+  {
+    "textalign": true,
+    "name": "Astrid",
+    "x": 246,
+    "y": 72
+  },
+  {
+    "textalign": true,
+    "name": "Sonja",
+    "x": 246,
+    "y": 81
+  },
+  {
+    "textalign": true,
+    "name": "Kåre",
+    "x": 246,
+    "y": 90
+  },
+  {
+    "textalign": true,
+    "name": "Jon",
+    "x": 246,
+    "y": 98
+  },
+  {
+    "textalign": true,
+    "name": "Eva",
+    "x": 246,
+    "y": 107
+  },
+  {
+    "textalign": true,
+    "name": "Trine",
+    "x": 246,
+    "y": 116
+  },
+  {
+    "textalign": true,
+    "name": "Øystein",
+    "x": 246,
+    "y": 125
+  },
+  {
+    "textalign": true,
+    "name": "Hanne",
+    "x": 246,
+    "y": 134
+  },
+  {
+    "textalign": true,
+    "name": "Roar",
+    "x": 246,
+    "y": 143
+  },
+  {
+    "textalign": true,
+    "name": "Rikka",
+    "x": 246,
+    "y": 152
+  },
+  {
+    "textalign": false,
+    "name": "Maja",
+    "x": 225,
+    "y": 152
+  },
+  {
+    "textalign": false,
+    "name": "Per Ivar",
+    "x": 225,
+    "y": 141
+  },
+  {
+    "textalign": false,
+    "name": "Ann Magritt",
+    "x": 225,
+    "y": 130
+  },
+  {
+    "textalign": false,
+    "name": "Camilla",
+    "x": 225,
+    "y": 119
+  },
+  {
+    "textalign": false,
+    "name": "Stian",
+    "x": 225,
+    "y": 109
+  },
+  {
+    "textalign": false,
+    "name": "Marit-Helen",
+    "x": 225,
+    "y": 98
+  },
+  {
+    "textalign": false,
+    "name": "Wilhelm",
+    "x": 225,
+    "y": 87
+  },
+  {
+    "textalign": true,
+    "name": "Camilla",
+    "x": 162,
+    "y": 87
+  },
+  {
+    "textalign": true,
+    "name": "Rolf",
+    "x": 162,
+    "y": 98
+  },
+  {
+    "textalign": true,
+    "name": "Vibekke",
+    "x": 162,
+    "y": 109
+  },
+  {
+    "textalign": true,
+    "name": "Ben Cato",
+    "x": 162,
+    "y": 119
+  },
+  {
+    "textalign": true,
+    "name": "Trine",
+    "x": 162,
+    "y": 130
+  },
+  {
+    "textalign": true,
+    "name": "Benedict",
+    "x": 162,
+    "y": 141
+  },
+  {
+    "textalign": true,
+    "name": "Jan Inge",
+    "x": 162,
+    "y": 152
+  },
+  {
+    "textalign": false,
+    "name": "Gabor",
+    "x": 141,
+    "y": 152
+  },
+  {
+    "textalign": false,
+    "name": "Marit",
+    "x": 141,
+    "y": 141
+  },
+  {
+    "textalign": false,
+    "name": "Andre",
+    "x": 141,
+    "y": 130
+  },
+  {
+    "textalign": false,
+    "name": "Kathrine",
+    "x": 141,
+    "y": 119
+  },
+  {
+    "textalign": false,
+    "name": "Borghild",
+    "x": 141,
+    "y": 109
+  },
+  {
+    "textalign": false,
+    "name": "Ida",
+    "x": 141,
+    "y": 98
+  },
+  {
+    "textalign": false,
+    "name": "Vidar",
+    "x": 141,
+    "y": 87
+  },
+  {
+    "textalign": true,
+    "name": "Thor Inge",
+    "x": 79,
+    "y": 87
+  },
+  {
+    "textalign": true,
+    "name": "Kari",
+    "x": 79,
+    "y": 98
+  },
+  {
+    "textalign": true,
+    "name": "Tor Erik",
+    "x": 79,
+    "y": 109
+  },
+  {
+    "textalign": true,
+    "name": "Camilla",
+    "x": 79,
+    "y": 119
+  },
+  {
+    "textalign": true,
+    "name": "Håvard",
+    "x": 79,
+    "y": 130
+  },
+  {
+    "textalign": true,
+    "name": "Astrid",
+    "x": 79,
+    "y": 141
+  },
+  {
+    "textalign": true,
+    "name": "Kaja",
+    "x": 79,
+    "y": 152
+  },
+  {
+    "textalign": false,
+    "name": "Thor Endre",
+    "x": 57,
+    "y": 152
+  },
+  {
+    "textalign": false,
+    "name": "Pierre",
+    "x": 57,
+    "y": 143
+  },
+  {
+    "textalign": false,
+    "name": "Inger",
+    "x": 57,
+    "y": 134
+  },
+  {
+    "textalign": false,
+    "name": "Oddbjørn",
+    "x": 57,
+    "y": 125
+  },
+  {
+    "textalign": false,
+    "name": "Anett",
+    "x": 57,
+    "y": 116
+  },
+  {
+    "textalign": false,
+    "name": "Tommy",
+    "x": 57,
+    "y": 107
+  },
+  {
+    "textalign": false,
+    "name": "Hilde",
+    "x": 57,
+    "y": 98
+  },
+  {
+    "textalign": false,
+    "name": "Tord",
+    "x": 57,
+    "y": 90
+  },
+  {
+    "textalign": false,
+    "name": "Inga Marie",
+    "x": 57,
+    "y": 81
+  },
+  {
+    "textalign": false,
+    "name": "Christoffer",
+    "x": 57,
+    "y": 72
+  },
+  {
+    "textalign": false,
+    "name": "Dag Ola",
+    "x": 77,
+    "y": 163
+  },
+  {
+    "textalign": true,
+    "name": "Svein",
+    "x": 213,
+    "y": 163
+  },
+  {
+    "textalign": false,
+    "name": "Frode",
+    "x": 259,
+    "y": 163
+  }
 ]
